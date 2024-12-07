@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/736x/95/fe/7a/95fe7a6efd8ed2054a5552dda2d78731.jpg)
+<img src="https://i.pinimg.com/736x/95/fe/7a/95fe7a6efd8ed2054a5552dda2d78731.jpg" alt="MasterHead" style="display: block; margin: 0 auto;">
 <h1 align="center">Hi 👋, I'm Ramsi Favas</h1>
 <h3 align="center">A passionate Python Developer from India, specializing in data analytics and Visualization.</h3>
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
