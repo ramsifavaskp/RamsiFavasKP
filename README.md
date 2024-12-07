@@ -1,13 +1,17 @@
-<img src="https://i.pinimg.com/736x/95/fe/7a/95fe7a6efd8ed2054a5552dda2d78731.jpg" alt="MasterHead" style="display: block; margin: 0 auto;">
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/736x/95/fe/7a/95fe7a6efd8ed2054a5552dda2d78731.jpg" alt="MasterHead" style="display: block; margin: 0 auto;">
+</div>
+
 <h1 align="center">Hi 👋, I'm Ramsi Favas</h1>
 <h3 align="center">A passionate Python Developer from India, specializing in data analytics and Visualization.</h3>
-<img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramsifavaskp&label=Profile%20views&color=0e75b6&style=flat" alt="ramsifavaskp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramsifavaskp" alt="ramsifavaskp" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ramsifavas" target="blank"><img src="https://img.shields.io/twitter/follow/ramsifavas?logo=twitter&style=for-the-badge" alt="ramsifavas" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 - 🔭 I’m currently working on [Movie Verse](https://github.com/ramsifavaskp/Movie-Verse-Project)
 
